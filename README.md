@@ -14,5 +14,5 @@ public class Art {
 ```
 
 [![Linkedin](https://img.shields.io/badge/-Arthur_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurdasr/)](https://www.linkedin.com/in/arthurdasr/)
-[![GitHub](https://img.shields.io/github/followers/artoriusfox?label=follow&style=social)](https://github.com/artoiusFox)
+[![GitHub](https://img.shields.io/github/followers/artoriusfox?label=follow&style=social)](https://github.com/artoriusFox)
 ---
