@@ -6,7 +6,7 @@
 public class Art {
     private Code code = new Code("Java","C");
     private Code inProgress = new Code("C#","PHP","React");
-    private String Os = "Win 10, Mint 20";
+    private String Os = "Win 11, Mint 21";
     private Lang lang = new Lang("Portuguese");
     private Lang learning = new Lang("English");
 }
